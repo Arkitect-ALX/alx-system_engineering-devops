@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /boot  ..  /0x00-shells_basics
+ls -la /boot .. .
